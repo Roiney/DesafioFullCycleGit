@@ -13,7 +13,7 @@
         <li><strong>Push para o GitHub:</strong> Após realizar o commit assinado, faça o push das suas alterações para o GitHub. O commit assinado será exibido com um ícone de cadeado no GitHub, indicando que ele está assinado digitalmente.</li>
     </ol>
 
-    <h2>Como Verificar um Commit Assinado</h2>
+    <h2>Como Verificar um Commit Assinado!</h2>
     <p>Para verificar a assinatura de um commit no GitHub:</p>
     <ol>
         <li>Acesse o commit no GitHub.</li>
